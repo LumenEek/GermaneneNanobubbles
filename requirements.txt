@@ -1,0 +1,6 @@
+# TBPLaS 1.6 uses scipy.integrate.trapz; retain SciPy < 1.14.
+numpy>=1.23,<2.3
+scipy>=1.9,<1.14
+matplotlib>=3.6
+jupyterlab>=4
+tbplas==1.6.0
